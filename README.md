@@ -1,7 +1,7 @@
 ## I'm Adrian Tuschek 👋, 
 
 - An Electrical Engineering & Computer Science Student at Orange Coast College 
-- Born in the Canadian/American **🌲Pacific Northwest🌲** but currently in California
+- Born and raised on the Canadian and American side of the **🌲Pacific Northwest🌲** but currently in California
 
 <p align='center'>
 
