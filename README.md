@@ -16,11 +16,6 @@
     <img src="https://img.shields.io/badge/Follow-black.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/-Connect-black?style=for-the-badge&logo=Linkedin" />
-<img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Follow-black.svg?&style=for-the-badge&logo=github&logoColor=white" />
-
-
 
 ---
 
