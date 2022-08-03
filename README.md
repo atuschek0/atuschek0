@@ -4,7 +4,6 @@
 - Born in Canadian/American **🌲Pacific Northwest🌲** but currently in California
 
 <br />
-<br />
 
 ---
 
