@@ -4,6 +4,18 @@
 - Born in Canadian/American **🌲Pacific Northwest🌲** but currently in California
 
 
+<a href="https://www.linkedin.com/in/adrian-tuschek-16509a20b/">
+    <img src="https://img.shields.io/badge/-Connect-black?style=for-the-badge&logo=Linkedin" />
+  </a>&nbsp;&nbsp;
+  
+<a href="mailto:atuschek@student.cccd.edu">
+    <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+<a href="https://github.com/atuschek0">
+    <img src="https://img.shields.io/badge/Follow-black.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/-Connect-black?style=for-the-badge&logo=Linkedin" />
 <img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white" />
 <img src="https://img.shields.io/badge/Follow-black.svg?&style=for-the-badge&logo=github&logoColor=white" />
