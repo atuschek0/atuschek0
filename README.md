@@ -3,7 +3,7 @@
 - An Electrical Engineering & Computer Science Student at Orange Coast College 
 - Born in Canadian/American **🌲Pacific Northwest🌲** but currently in California
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/adrian-tuschek-16509a20b/); />
+[![LinkedIn](https://img.shields.io/badge/-Connect-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/adrian-tuschek-16509a20b/ />)
 [![GMail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atuschek@student.cccd.edu); />
 [![GitHub](https://img.shields.io/badge/Follow-black.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/atuschek0;) />
 <br />
