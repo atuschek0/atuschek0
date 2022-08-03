@@ -1,4 +1,3 @@
-![Header](./github-header-final.png)
 
 ### Languages and Tools:
 
