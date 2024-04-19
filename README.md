@@ -1,6 +1,6 @@
 ## I'm Adrian Tuschek 👋, 
 
-- A Computer Engineering Student at The University of California - Irvine 
+- An Electrical Engineering & Computer Engineering Student at The University of California - Irvine 
 - Born and raised in the **🌲Pacific Northwest🌲** but currently in California
 
 <p align='center'>
