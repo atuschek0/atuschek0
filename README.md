@@ -37,9 +37,35 @@
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ROS" width="26px" src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" style="padding-right:10px;" />
 
+<br />
+<br />
 
-<br />
-<br />
+---
+## Engineering Languages & Tools
+<div style="display:flex;flex-direction:row;flex-wrap:nowrap;white-space:nowrap;align-items:center;gap:26px;">
+  <img src="./assets/icons/cadence.svg"       alt="Cadence"       height="26"
+       style="filter:brightness(1.6) contrast(1.05);max-width:90px;">
+  <img src="./assets/icons/ltspice.svg"       alt="LTspice"       height="26">
+  <img src="./assets/icons/ros.svg"           alt="ROS"           height="26"
+       style="filter:brightness(1.5) contrast(1.05);max-width:90px;">
+  <img src="./assets/icons/systemverilog.svg" alt="SystemVerilog" height="26">
+  <img src="./assets/icons/racket.svg"        alt="Racket"        height="26">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
