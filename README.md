@@ -51,4 +51,4 @@
 
 ---
 
- <img align="left" alt="atuschek0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=atuschek0&show_icons=true&hide_border=false&title_color=70a5fd&icon_color=bf91f3&bg_color=1a1b27&text_color=38bdae&border_color=0c1a25" />
+<img alt="atuschek0's GitHub Stats" src="https://github-readme-stats-five-omega-80.vercel.app/api?username=atuschek0&show_icons=true&hide_border=false&title_color=70a5fd&icon_color=bf91f3&bg_color=1a1b27&text_color=38bdae&border_color=0c1a25&include_all_commits=true&count_private=true&v=2" />
