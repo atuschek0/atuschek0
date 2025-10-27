@@ -38,17 +38,17 @@
 
 ---
 ### Engineering Languages & Tools
-<code><img height="30" src="./assets/icons/cadence_virtuoso.png" title="Cadence"/></code>
-<code><img height="30" src="./assets/icons/ROS1.png" title="ROS1"/></code>
-<code><img height="30" src="./assets/icons/ROS2.png" title="ROS2"/></code>
-<code><img height="30" src="./assets/icons/systemverilog.svg" title="Verilog"/></code>
-<code><img height="30" src="./assets/icons/racket.svg" title="Racket"/></code>
-<code><img height="30" src="./assets/icons/ltspice.svg" title="LTSPICE"/></code>
-<code><img height="30" src="./assets/icons/matlab.svg" title="MATLAB"/></code>
-<code><img height="30" src="./assets/icons/revolution-eda.png" title="RevolutionEDA"/></code>
-<code><img height="30" src="./assets/icons/xyce.png" title="Xyce"/></code>
-<code><img height="30" src="./assets/icons/logo-cst.png" title="CSTStudioSuite"/></code>
-<code><img height="30" src="./assets/icons/ansys_hsff.png" title="AnsysHSFF"/></code>
+<code><img height="26" src="./assets/icons/cadence_virtuoso.png" title="Cadence"/></code>
+<code><img height="26" src="./assets/icons/ROS1.png" title="ROS1"/></code>
+<code><img height="26" src="./assets/icons/ROS2.png" title="ROS2"/></code>
+<code><img height="26" src="./assets/icons/systemverilog.svg" title="Verilog"/></code>
+<code><img height="26" src="./assets/icons/racket.svg" title="Racket"/></code>
+<code><img height="26" src="./assets/icons/ltspice.svg" title="LTSPICE"/></code>
+<code><img height="26" src="./assets/icons/matlab.svg" title="MATLAB"/></code>
+<code><img height="26" src="./assets/icons/revolution-eda.png" title="RevolutionEDA"/></code>
+<code><img height="26" src="./assets/icons/xyce.png" title="Xyce"/></code>
+<code><img height="26" src="./assets/icons/logo-cst.png" title="CSTStudioSuite"/></code>
+<code><img height="26" src="./assets/icons/ansys_hsff.png" title="AnsysHSFF"/></code>
 
 ---
 
