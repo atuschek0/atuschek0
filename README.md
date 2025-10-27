@@ -49,7 +49,10 @@
   <img src="./assets/icons/matlab.svg"        alt="MATLAB"        height="26">
   <img src="./assets/icons/xyce.png"          alt="Xyce"          height="26">
   <img src="./assets/icons/revolution-eda.png" alt="Revolution EDA" height="26">
-  <img src="./assets/icons/Ansys_logo_(2019).svg" alt="Revolution EDA" height="26">
+  <img src="./assets/icons/logo-cst.png" alt="CST Studio Suite" height="26">
+  <img src="./assets/icons/Ansys_logo_(2019).svg" alt="Ansys HFSS" height="26">
+
+logo-cst
 
 </div>
 
