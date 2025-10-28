@@ -49,6 +49,7 @@
 <code><img height="26" src="./assets/icons/xyce.png" title="Xyce"/></code>
 <code><img height="26" src="./assets/icons/logo-cst.png" title="CSTStudioSuite"/></code>
 <code><img height="26" src="./assets/icons/ansys_hsff.png" title="AnsysHSFF"/></code>
+<code><img height="26" src="./assets/icons/kicad.png" title="KiCAD"/></code>
 
 ---
 
